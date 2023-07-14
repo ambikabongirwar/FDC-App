@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/knowmore_nav_graph"
+    app:startDestination="@id/knowMoreFragment">
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.fdcbabulngoapp.loginjavatry.AboutFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/knowMoreFragment"
+        android:name="com.fdcbabulngoapp.loginjavatry.KnowMoreFragment"
+        android:label="fragment_know_more"
+        tools:layout="@layout/fragment_know_more" >
+        <action
+            android:id="@+id/action_knowMoreFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+        <action
+            android:id="@+id/action_knowMoreFragment_to_objectiveFragment"
+            app:destination="@id/objectiveFragment" />
+        <action
+            android:id="@+id/action_knowMoreFragment_to_missionFragment"
+            app:destination="@id/missionFragment" />
+        <action
+            android:id="@+id/action_knowMoreFragment_to_contactUsFragment"
+            app:destination="@id/contactUsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/contactUsFragment"
+        android:name="com.fdcbabulngoapp.loginjavatry.ContactUsFragment"
+        android:label="fragment_contact_us"
+        tools:layout="@layout/fragment_contact_us" />
+    <fragment
+        android:id="@+id/missionFragment"
+        android:name="com.fdcbabulngoapp.loginjavatry.MissionFragment"
+        android:label="fragment_mission"
+        tools:layout="@layout/fragment_mission" />
+    <fragment
+        android:id="@+id/objectiveFragment"
+        android:name="com.fdcbabulngoapp.loginjavatry.ObjectiveFragment"
+        android:label="fragment_objective"
+        tools:layout="@layout/fragment_objective" />
+</navigation>

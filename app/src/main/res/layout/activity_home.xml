@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:background="@drawable/bg_img">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/copyright"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/babulNgoLogoIV"
+        android:layout_width="255dp"
+        android:layout_height="238dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/babulngologo" />
+
+
+    <TextView
+        android:id="@+id/scrollHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:autoSizeTextType="uniform"
+        android:textColor="@color/black"
+
+        android:layout_margin="45dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal"
+        android:maxWidth="250dp"
+        android:text="@string/fundamental_duty_challenge_by_babul_ngo"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="33sp"
+        app:layout_constraintBottom_toTopOf="@+id/BasicInstru"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/babulNgoLogoIV"
+        app:layout_constraintVertical_bias="0.363" />
+
+    <TextView
+        android:id="@+id/BasicInstru"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="120dp"
+        android:layout_marginLeft="20dp"
+        android:background="#B7ECB684"
+        android:backgroundTint="#83ECB684"
+        android:scrollbars="vertical"
+        android:text="@string/homePage_fdc_text"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.876">
+
+    </TextView>
+
+    <Button
+        android:id="@+id/GoToCP"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="40dp"
+        android:backgroundTint="@color/black"
+        android:padding="10dp"
+        app:cornerRadius="10dp"
+        android:text="@string/GoToChallengePage"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/viewMore"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="100dp"
+        android:padding="10dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/ViewMore"
+        app:cornerRadius="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BasicInstru"
+        app:layout_constraintVertical_bias="1.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

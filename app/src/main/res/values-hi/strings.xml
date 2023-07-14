@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginJavaTry</string>
+
+
+
+
+    <string name="fundamental_duty_challenge_by_babul_ngo">बाबुल एनजीओ द्वारा मौलिक कर्तव्य चुनौती</string>
+
+
+    <string name="language">En</string>
+
+    <string name="login">लॉग इन करें</string>
+
+    <string name="email">अपना ईमेल दर्ज करें</string>
+    <string name="password">अपना कूटशब्द भरें</string>
+    <string name="forgotPassword">पासवर्ड भूल गए?</string>
+    <string name="resetPassword">पासवर्ड रीसेट करें</string>
+    <string name="createNewAccount">नया खाता बनाएँ?</string>
+    <string name="OR">या</string>
+    <string name="register">पंजीकरण करवाना</string>
+    <string name="confirmReset">रीसेट</string>
+    <string name="confirmYourPassword">अपने पासवर्ड की पुष्टि करें</string>
+    <string name="alreadyHaveAnAccount">क्या आपके पास पहले से एक खाता मौजूद है?</string>
+
+    <string name="homePage_fdc_text">FunDu,भारत के संविधान के मौलिक कर्तव्य के लिए खड़ा है। हम सभी अधिकारों का आनंद लेते हैं लेकिन बहुत से लोग यह नहीं जानते कि हमारे मौलिक कर्तव्य भी हैं। नागरिक इन कर्तव्यों को निभाने के लिए संविधान द्वारा नैतिक रूप से बाध्य हैं।</string>
+
+
+
+
+
+    <string name="start_capture">कब्जा शुरू करें</string>
+    <string name="stop_capture">रुकना- जब आप रुकें तो मुझे क्लिक करें</string>
+    <string name="flip_camera">कैमरा पलटना</string>
+
+    <!--string name="name">नाम दर्ज करें</string-->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="select_a_challenge">एक चुनौती चुनें</string>
+    <string name="record">शुरू</string>
+    <string name="stop">बंद करें</string>
+    <string name="play">प्लेऑडियो</string>
+    <string name="share">शेयर करना</string>
+    <string name="changeLang">भाषा चुनें</string>
+    <string name="fdc_text">
+        जागरूकता कार्रवाई का पहला कदम है।
+         वर्तमान प्राकृतिक पर्यावरण की दयनीय स्थिति का एक मुख्य कारण जागरूकता की कमी है।
+         पर्यावरण के बारे में जागरूकता के स्तर को बढ़ाने की तत्काल और बड़ी आवश्यकता है।
+         जागरूकता कार्रवाई का पहला कदम है।
+         वर्तमान प्राकृतिक पर्यावरण की दयनीय स्थिति का एक मुख्य कारण जागरूकता की कमी है।
+         पर्यावरण के बारे में जागरूकता के स्तर को बढ़ाने की तत्काल और बड़ी आवश्यकता है।
+     जागरूकता कार्रवाई का पहला कदम है।
+         वर्तमान प्राकृतिक पर्यावरण की दयनीय स्थिति का एक मुख्य कारण जागरूकता की कमी है।
+         पर्यावरण के बारे में जागरूकता के स्तर को बढ़ाने की तत्काल और बड़ी आवश्यकता है।</string>
+
+    <string name="heading">मौलिक कर्तव्य चुनौती</string>
+    <string name="basicInstr">भारत के संविधान के अनुच्छेद 51 [ए] जी के अनुसार वनों, झीलों, नदियों और वन्यजीवों सहित प्राकृतिक पर्यावरण की रक्षा करना और जीवित प्राणियों के प्रति दया रखना प्रत्येक भारतीय का कर्तव्य होगा। <b>#फंडुचैलेंज</b> फंडामेंटल ड्यूटी चैलेंज बाय बाबुल एनजीओ\n
+        \n<b><u>निर्देश</u></b>\n1.ऑडियो रिकॉर्ड करने के लिए ऑडियो बटन पर क्लिक करें\n2.वीडियो रिकॉर्ड करने के लिए वीडियो बटन पर क्लिक करें\n3.लॉग आउट करने के लिए लॉगआउट पर क्लिक करें\n
+    \n\n<center><b><i>शुभकामनाएं</i></b></center></string>
+
+    <string name="log_out">लॉग आउट</string>
+    <string name="audio">ऑडियो</string>
+    <string name="video">वीडियो</string>
+
+    <string name="text_Video">भारत के संविधान के अनुच्छेद 51 [ए] जी के अनुसार वनों, झीलों, नदियों और वन्यजीवों सहित प्राकृतिक पर्यावरण की रक्षा करना और जीवित प्राणियों के प्रति दया रखना प्रत्येक भारतीय का कर्तव्य होगा। <b>#फंडुचैलेंज</b> फंडामेंटल ड्यूटी चैलेंज बाय बाबुल एनजीओ\n
+        </string>
+
+    <string name="preview">पूर्व दर्शन</string>
+
+    <string name="WelcInst">भारत के प्रत्येक नागरिक का यह कर्तव्य होगा कि वह वनों, झीलों, नदियों और वन्य जीवों सहित प्राकृतिक पर्यावरण से रक्षा और सुधार करे और जीवों के प्रति दया भाव रखे।</string>
+
+    <string name="GoToChallengePage">चुनौती पृष्ठ पर जाएं</string>
+    <string name="ViewMore">अधिक जानते हैं</string>
+
+    <string name="aboutPage_fdc_text">बाबुल फिल्म्स सोसाइटी हैदराबाद से बाहर स्थित एक पंजीकृत गैर-लाभकारी एनजीओ है। एक लोकतांत्रिक व्यवस्था में, जागरूकता जीने और सतत प्रगति की कुंजी है; बाबुल फिल्म्स अज्ञानियों के बीच ज्ञान फैलाने और जागरूक को कार्रवाई की ओर धकेलने का काम करती है। सोसायटी रजिस्ट्रार, रंगा रेड्डी जिला, आंध्र प्रदेश, भारत नंबर 1809/2012 डीटी। 17-08-2012।</string>
+
+    <string name="contactPage_fdc_text"><b><u>बाबुल फिल्म्स सोसायटी</u></b>
+
+        एस-4 सारेगामा अपार्टमेंट, इंटरनेशनल स्कूल के सामने
+        शाइकपेटनाला, गोलकुंडा पोस्ट
+        रंगा रेड्डी जिला हैदराबाद
+        आंध्र प्रदेश, भारत
+
+        <b>पिन : </b>500 008
+        <b>फोन: </b>+918897357731
+        <b>ईमेल: </b>Gangactor@yahoo.com
+
+    </string>
+
+    <string name="objectivePage_fdc_text"><b>बाबुल फिल्म्स सोसाइटी</b> का गठन लघु वीडियो और विभिन्न आईसीटी उपकरणों का उपयोग करके पर्यावरण, जैव विविधता और सतत विकास के बारे में जागरूकता को बढ़ावा देने के उद्देश्य से किया गया है।</string>
+
+    <string name="missionPage_fdc_text"><b>विजन:- </b>अधिक पर्यावरण जागरूकता और कम लापरवाही के साथ एक स्थायी समाज का एहसास करें।
+
+<b>मिशन:- </b>पारंपरिक वकालत विधियों के अलावा लघु वीडियो और सोशल मीडिया का उपयोग करके पर्यावरण, जैव विविधता और सतत विकास के बारे में जागरूकता फैलाना। आउटरीच के लिए सिनेमा का प्रयोग करें।
+
+<b>मूल्य:- </b>हम सतत फिल्म निर्माण और हमारे सभी कार्यों में सर्वोत्तम प्रथाओं के कोड का पालन करते हैं, जिससे पर्यावरण पर न्यूनतम नकारात्मक प्रभाव पड़ता है और हरित उत्पादन मूल्यों को बनाए रखता है।</string>
+
+
+    <string name="aboutUs"><b>हमारे बारे में</b></string>
+
+    <string name="contactUs"><b>संपर्क करें</b></string>
+
+    <string name="Mission"><b>उद्देश्य</b></string>
+
+    <string name="Objective"><b>ध्येय</b></string>
+
+    <string name="knowMore">क्या आप हमारे बारे में अधिक जानना चाहते हैं..?</string>
+
+    <string name="myVideos">मेरे वीडियो</string>
+    <string name="developedBy">"                              जीएनआईटीएस आईटी विभाग द्वारा विकसित"</string>
+
+
+    <string name="title">शीर्षक</string>
+    <string name="delete">मिटाना</string>
+    <string name="deleteVideo">क्या आप इस वीडियो को स्थायी रूप से हटाना चाहते हैं?</string>
+
+</resources>

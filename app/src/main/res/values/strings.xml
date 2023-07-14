@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">FDC Challenge</string>
+
+
+    <string name="fundamental_duty_challenge_by_babul_ngo">FUNDAMENTAL DUTY CHALLENGE BY BABUL NGO</string>
+
+
+    <string name="login">Login</string>
+
+
+    <string name="language">En</string>
+
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop- Click Me When You Finish</string>
+    <string name="flip_camera">Flip Camera</string>
+
+    <!--string name="name">Enter Name</string-->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="createNewAccount">Create new account?</string>
+    <string name="OR">OR</string>
+    <string name="register">Register</string>
+    <string name="confirmReset">Reset</string>
+    <string name="confirmYourPassword">Confirm your password</string>
+    <string name="alreadyHaveAnAccount">Already Have An Account?</string>
+
+    <string name="resetPassword">Reset Password</string>
+
+    <string name="homePage_fdc_text">FunDu Stands for Fundamental Duty of the Constitution of India. We all enjoy Rights but many do not know that we have Fundamental Duties also. Citizens are morally obligated by the Constitution to perform these duties.</string>
+
+
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="changeLang">Language</string>
+    <string name="fdc_text">
+       It shall be the duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures.</string>
+    <string name="heading">FUNDAMENTAL DUTY CHALLENGE</string>
+    <string name="basicInstr">According to Article 51 [a] g of the Constitution of India, it shall be the duty of every Indian to protect the natural environment including forests, lakes, rivers and wildlife and to have compassion for living creatures. <b>#FunduChallenge</b> Fundamental Duty Challenge by Babul NGO\n<b><u>Instructions</u></b>\n1.Click on Audio Button to Record Audio\n2.Click on Video Button to Record Video\n3.Click on Logout to logout\n
+    <center><b><i>ALL THE BEST</i></b></center></string>
+    <string name="log_out">Log out</string>
+
+
+    <string name="select_a_challenge">Select a challenge</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="text_Video">As per constitution of India Article 51[A]g,it shall be the duty of every Indian to to protect Natural Environment including Forests, Lakes, Rivers and Wildlife and to have compassion for living creatures.\n<b>#funduchallenge</b> Fundamental Duty Challenge by Babul ngo\n
+        </string>
+    <string name="preview">Play</string>
+    <string name="WelcInst">It shall be the duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures.</string>
+    <string name="GoToChallengePage">Go to Challenge Page</string>
+    <string name="ViewMore">Know More</string>
+    <string name="aboutPage_fdc_text"><b>Babul Films Society</b> is a registered non-profit NGO based out of Hyderabad. In a democratic set up, awareness is the key to live and progress sustainably; Babul Films works to spread knowledge among ignorant and push the aware towards action. Registrar of Societies, Ranga Reddy Dist, Andhra Pradesh, India No.1809/2012 dt. 17-08-2012.</string>
+    <string name="contactPage_fdc_text"><u><b>Babul Films Society</b></u>\n
+        S-4 Saregama Apartment, Opp International School\n
+        Shaikpetnala, Golconda Post\n
+        Ranga Reddy Dist HYDERABAD\n
+        Andhra Pradesh, India\n
+
+        <b>PIN</b>: 500 008\n
+        <b>Phone:</b> +918897357731\n
+        <b>Email:</b> gangactor@yahoo.com\n
+    </string>
+
+    <string name="objectivePage_fdc_text"><b>Babul Films Society</b> is formed with the object of promoting awareness about Environment, Biodiversity and Sustainable Development using short vidoes and various ICT tools.</string>
+    <string name="missionPage_fdc_text"><b>Vision:- </b>Realise a sustainable society with more environmental awareness and less negligence.
+\n
+<b>Mission:- </b>Spread awareness about Environment, Biodiversity and Sustainable Development using short videos and social media in addition to traditional advocacy methods. Use cinema for outreach.
+\n
+<b>Values:- </b>We follow the Code of Best Practices in Sustainable Film-making and all our operations causing minimum negative impact on Environment and maintain Green Production values.</string>
+    <string name="aboutUs"><b>About Us</b></string>
+    <string name="contactUs"><b>Contact Us</b></string>
+    <string name="Mission"><b>Our Mission</b></string>
+    <string name="Objective"><b>Our Objective</b></string>
+    <string name="knowMore"><b>Want To Know More About Us..?</b></string>
+
+    <string name="myVideos">My Videos</string>
+    <string name="developedBy">"                              Developed by GNITS IT dept"</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="deleteVideo">Do you want to permanently delete this video?</string>
+
+
+</resources>

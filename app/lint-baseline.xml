@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.2.2" type="baseline" client="gradle" dependencies="false" name="AGP (7.2.2)" variant="fatal" version="7.2.2">
+
+    <issue
+        id="Instantiatable"
+        message="This class should provide a default constructor (a public constructor with no arguments) (`com.fdcbabulngoapp.loginjavatry.videoRecording.VideoListAdapter`)"
+        errorLine1="            android:name=&quot;.videoRecording.VideoListAdapter&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/AndroidManifest.xml"
+            line="160"
+            column="27"/>
+    </issue>
+
+    <issue
+        id="Instantiatable"
+        message="`VideoListAdapter` must extend android.app.Activity"
+        errorLine1="            android:name=&quot;.videoRecording.VideoListAdapter&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/AndroidManifest.xml"
+            line="160"
+            column="27"/>
+    </issue>
+
+</issues>

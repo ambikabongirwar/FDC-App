@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginJavaTry</string>
+
+
+
+    <string name="fundamental_duty_challenge_by_babul_ngo">బాబుల్ NGO ద్వారా ప్రాథమిక విధి ఛాలెంజ్</string>
+
+    <string name="language">En</string>
+
+    <string name="login">ప్రవేశించండి</string>
+
+    <string name="email">మీ ఇమెయిల్‌ను నమోదు చేయండి</string>
+    <string name="password">మీ పాస్వర్డ్ ని నమోదుచేయండి</string>
+    <string name="forgotPassword">పాస్‌వర్డ్ మర్చిపోయారా?</string>
+    <string name="resetPassword">రీసెట్ పాస్ వర్డ్</string>
+    <string name="createNewAccount">క్రొత్త ఖాతా తెరువుము?</string>
+    <string name="OR">లేదా</string>
+    <string name="register">నమోదు చేసుకోండి</string>
+    <string name="confirmReset">రీసెట్</string>
+    <string name="confirmYourPassword">మీ గుత్త పదమును ధృవీకరించండి</string>
+    <string name="alreadyHaveAnAccount">ఖాతా కలిగి ఉన్నారా?</string>
+
+
+    <string name="homePage_fdc_text">FunDu అంటే భారత రాజ్యాంగం యొక్క ప్రాథమిక విధి. మనమందరం హక్కులను ఆనందిస్తాము కానీ మనకు ప్రాథమిక విధులు కూడా ఉన్నాయని చాలా మందికి తెలియదు. ఈ విధులను నిర్వహించడానికి పౌరులు రాజ్యాంగం ద్వారా నైతికంగా బాధ్యత వహించాలి.</string>
+
+
+
+    <string name="start_capture">క్యాప్చర్ ప్రారంభించండి</string>
+    <string name="stop_capture">ఆపండి- మీరు ఆగినప్పుడు నన్ను క్లిక్ చేయండి</string>
+    <string name="flip_camera">కెమెరా తిప్పండి</string>
+
+    <!--string name="name">పేరు నమోదు చేయండి</string-->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="select_a_challenge">సవాలును ఎంచుకోండి</string>
+    <string name="record">ప్రారంభించండి</string>
+    <string name="stop">ఆపు</string>
+    <string name="play">ప్లే ఆడియో</string>
+    <string name="share">షేర్ చేయండి</string>
+    <string name="changeLang">భాషను ఎంచుకోండి</string>
+    <string name="fdc_text">
+        అవగాహన చర్యకు మొదటి మెట్టు.
+         నేటి ప్రకృతి దయనీయమైన పరిస్థితులకు అవగాహన లేకపోవడమే ప్రధాన కారణం.
+         పర్యావరణంపై అవగాహన స్థాయిలను పెంచడం తక్షణం మరియు భారీ అవసరం.
+         అవగాహన చర్యకు మొదటి మెట్టు.
+         నేటి ప్రకృతి దయనీయమైన పరిస్థితులకు అవగాహన లేకపోవడమే ప్రధాన కారణం.
+         పర్యావరణంపై అవగాహన స్థాయిలను పెంచడం తక్షణం మరియు భారీ అవసరం.
+     అవగాహన చర్యకు మొదటి మెట్టు.
+         నేటి ప్రకృతి దయనీయమైన పరిస్థితులకు అవగాహన లేకపోవడమే ప్రధాన కారణం.
+         పర్యావరణంపై అవగాహన స్థాయిలను పెంచడం తక్షణం మరియు భారీ అవసరం.
+    </string>
+    <string name="heading">ఫండమెంటల్ డ్యూటీ ఛాలెంజ్</string>
+    <string name="basicInstr">భారత రాజ్యాంగం ఆర్టికల్ 51[A]g ప్రకారం అడవులు, సరస్సులు, నదులు మరియు వన్యప్రాణులతో సహా సహజ పర్యావరణాన్ని రక్షించడం మరియు జీవుల పట్ల కరుణ కలిగి ఉండటం ప్రతి భారతీయుడి విధి. బాబుల్ ఎన్‌గో ద్వారా <b>#funduchallenge</b> ఫండమెంటల్ డ్యూటీ ఛాలెంజ్\n
+        \n<b><u>సూచనలు</u></b>\n1.ఆడియోను రికార్డ్ చేయడానికి ఆడియో బటన్‌పై క్లిక్ చేయండి\n2.వీడియోను రికార్డ్ చేయడానికి వీడియో బటన్‌పై క్లిక్ చేయండి\n3.లాగ్అవుట్ చేయడానికి లాగ్ అవుట్ పై క్లిక్ చేయండి\n
+    \n\n<center><b><i>అంతా మంచి జరుగుగాక</i></b></center></string>
+
+    <string name="log_out">లాగ్అవుట్</string>
+    <string name="audio">ఆడియో</string>
+    <string name="video">వీడియో</string>
+
+    <string name="text_Video">భారత రాజ్యాంగం ఆర్టికల్ 51[A]g ప్రకారం అడవులు, సరస్సులు, నదులు మరియు వన్యప్రాణులతో సహా సహజ పర్యావరణాన్ని రక్షించడం మరియు జీవుల పట్ల కరుణ కలిగి ఉండటం ప్రతి భారతీయుడి విధి. బాబుల్ ఎన్‌గో ద్వారా <b>#funduchallenge</b> ఫండమెంటల్ డ్యూటీ ఛాలెంజ్\n
+       </string>
+
+    <string name="preview">ప్రివ్యూ</string>
+
+    <string name="WelcInst">మన అడవులు, నదులు, సరస్సులు, జంతువుల పట్ల కరుణ చూపించి మన పృకృతిని కాపాడుకోవటం భారత దేశ ప్రజలందరి విధి మరియు బాధ్యత.</string>
+
+    <string name="GoToChallengePage">సవాలు పేజీకి వెళ్లండి</string>
+    <string name="ViewMore">మరింత తెలుసుకోండి</string>
+
+    <string name="aboutPage_fdc_text">బాబుల్ ఫిల్మ్స్ సొసైటీ హైదరాబాద్‌లో రిజిస్టర్డ్ లాభాపేక్ష లేని NGO. ప్రజాస్వామ్య ఏర్పాటులో, స్థిరంగా జీవించడానికి మరియు పురోగమించడానికి అవగాహన కీలకం; బాబుల్ ఫిల్మ్స్ అమాయకులలో జ్ఞానాన్ని వ్యాప్తి చేయడానికి మరియు అవగాహన ఉన్నవారిని చర్య వైపు నెట్టడానికి పని చేస్తుంది. రిజిస్ట్రార్ ఆఫ్ సొసైటీస్, రంగారెడ్డి జిల్లా, ఆంధ్రప్రదేశ్, భారతదేశం నం.1809/2012 dt. 17-08-2012.</string>
+
+
+    <string name="contactPage_fdc_text"><b><u>బాబుల్ ఫిల్మ్స్ సొసైటీ</u></b>
+
+        S-4 సరేగామా అపార్ట్‌మెంట్, ఇంటర్నేషనల్ స్కూల్ ఎదురుగా
+        షేక్‌పేటనాల, గోల్కొండ పోస్ట్
+        రంగారెడ్డి జిల్లా హైదరాబాద్
+        ఆంధ్రప్రదేశ్, భారతదేశం
+
+        <b>పిన్ : </b> 500 008
+        <b>ఫోన్: </b>+918897357731
+        <b>ఇమెయిల్: </b>gangactor@yahoo.com
+
+    </string>
+
+    <string name="objectivePage_fdc_text">చిన్న వీడియోలు మరియు వివిధ ICT సాధనాలను ఉపయోగించి పర్యావరణం, జీవవైవిధ్యం మరియు స్థిరమైన అభివృద్ధి గురించి అవగాహన కల్పించే లక్ష్యంతో బాబుల్ ఫిల్మ్స్ సొసైటీ ఏర్పడింది.</string>
+
+
+    <string name="missionPage_fdc_text"><b>దృష్టి:- </b>ఎక్కువ పర్యావరణ అవగాహన మరియు తక్కువ నిర్లక్ష్యంతో స్థిరమైన సమాజాన్ని గ్రహించండి.
+
+<b>లక్ష్యం:- </b>సాంప్రదాయ న్యాయవాద పద్ధతులతో పాటు చిన్న వీడియోలు మరియు సోషల్ మీడియాను ఉపయోగించి పర్యావరణం, జీవవైవిధ్యం మరియు స్థిరమైన అభివృద్ధి గురించి అవగాహన కల్పించండి. ఔట్ రీచ్ కోసం సినిమాని ఉపయోగించండి.
+
+<b>విలువలు:- </b>మేము సస్టైనబుల్ ఫిల్మ్ మేకింగ్‌లో బెస్ట్ ప్రాక్టీసెస్ కోడ్‌ను అనుసరిస్తాము మరియు పర్యావరణంపై కనీస ప్రతికూల ప్రభావాన్ని కలిగించే మా కార్యకలాపాలన్నీ మరియు గ్రీన్ ప్రొడక్షన్ విలువలను నిర్వహించడం.</string>
+
+    <string name="aboutUs"><b>మా గురించి</b></string>
+
+    <string name="contactUs"><b>మమ్మల్ని సంప్రదించండి</b></string>
+
+    <string name="Mission"><b>మిషన్</b></string>
+
+    <string name="Objective"><b>లక్ష్యం</b></string>
+
+    <string name="knowMore"><b>మా గురించి మరింత తెలుసుకోవాలనుకుంటున్నారా..?</b></string>
+
+
+    <string name="myVideos">నా వీడియోలు</string>
+
+    <string name="developedBy">"                              GNITS IT విభాగంచే అభివృద్ధి చేయబడింది"</string>
+
+
+    <string name="title">శీర్షిక</string>
+    <string name="delete">తొలగించు</string>
+    <string name="deleteVideo">మీరు ఈ వీడియోను శాశ్వతంగా తొలగించాలని అనుకుంటున్నారా?</string>
+
+</resources>
